@@ -1,3 +1,7 @@
+# Website
+
+https://winequalitypredictor.streamlit.app/
+
 # 🍷 Wine Quality Predictor
 
 A Streamlit-based web app that predicts whether a red wine sample is **Good Quality** (quality rating ≥ 7) or **Not Good**, based on its chemical properties.
